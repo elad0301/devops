@@ -1,0 +1,1 @@
+.\configureRemotingRorAnsible.ps1 -enablecredssp -disablebasicauth -verbose
